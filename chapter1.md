@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## SQL Views
+
+```yaml
+type: VideoExercise
+key: 8d23521847
+xp: 50
+```
+
+`@projector_key`
+376ad205af4c9931616400628fabae53
